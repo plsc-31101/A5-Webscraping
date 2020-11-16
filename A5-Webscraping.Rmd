@@ -7,8 +7,8 @@ output: html_document
 
 ## Assignment 5
 
-- __Assigned__: TBD.
-- __Due__: TBD.
+- __Assigned__: Nov 16
+- __Due__: Nov 30
 
 In this week's lecture, we introduced some tools to collect pieces of data from individual presidential documents. For this assignment, we will be looking at __all__ documents in the database that contain the string "space exploration." Our goals in this problem set are:
 
@@ -18,9 +18,7 @@ In this week's lecture, we introduced some tools to collect pieces of data from 
 
 Below, I've given you the code for a function that passes the URL of an individual document, scrapes the information from that document, and returns this information in a list.
 
-But this is all I will be providing you. You must complete the rest of the task yourself.
-
-Specifically, you should:
+You must complete the rest of the task yourself. Specifically, you should:
 
 1. Write code that scrapes all documents, organizes the information in a dataframe, and writes a csv file.
 
